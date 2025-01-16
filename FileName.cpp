@@ -5,5 +5,5 @@ int main()
 {
 
 	cout << "testing for github" << endl;
-	court << "pulling function" <<endl;
+	cout << "pulling function" <<endl; //corrected the cout statement
 }
